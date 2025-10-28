@@ -13,13 +13,11 @@ O módulo de curso da aplicação [Creative Sherbet](https://creative-sherbet-a5
 ---
 
 ## 3. Critérios de Aceitação
-
-- O usuário deve visualizar todos os cursos disponíveis na tela inicial;  
-- Deve ser possível clicar em um curso e visualizar seus detalhes;  
-- O botão **“Iniciar Curso”** deve iniciar o conteúdo;  
-- O progresso deve ser exibido corretamente;  
-- Caso o curso não carregue, deve exibir uma mensagem de erro amigável;  
-- O layout deve ser responsivo (funcionar bem no mobile e desktop).
+- Deve ser possível criar um curso informando nome, descrição e imagem.
+- O sistema deve listar todos os cursos cadastrados.
+- Deve ser possível excluir um curso.
+- O sistema deve exibir mensagens de erro ao tentar criar cursos com campos obrigatórios vazios.
+- Ao excluir um curso, deve haver uma mensagem de confirmação ou feedback.
 
 ---
 
