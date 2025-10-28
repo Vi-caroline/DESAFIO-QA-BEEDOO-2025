@@ -39,6 +39,14 @@ Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclus
 - Adotou-se a linguagem **Gherkin** nos casos de teste para padronização e clareza.  
 - O foco está em testar fluxos de sucesso e falha, incluindo validações de campos obrigatórios.
 
+---
+
+## 🧪 Metodologia Utilizada
+
+A metodologia utilizada foi **Risk-Based Testing (RBT)**, priorizando os testes de maior impacto e risco funcional.  
+A escolha foi feita para otimizar a cobertura e garantir a validação das funcionalidades mais críticas da aplicação.
+
+
 ## 📁 Estrutura do Projeto
 
 DESAFIO-QA-BEEDOO-2025/
