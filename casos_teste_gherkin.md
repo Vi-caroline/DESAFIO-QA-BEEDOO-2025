@@ -8,6 +8,8 @@ Funcionalidade: Gerenciamento de Cursos
     E clica no botão salvar
     Então o sistema deve criar o curso e listar na página principal
 
+    
+
   Cenário: Criar curso com campos obrigatórios vazios
     Dado que o usuário está na tela de criação de curso
     Quando ele tenta salvar sem preencher os campos obrigatórios
