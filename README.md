@@ -25,7 +25,7 @@ Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclus
 ---
 ## 🎯 Critérios de Aceitação
 
-1. Deve ser possível criar um curso informando nome, descrição e imagem (se disponível).  
+1. Deve ser possível criar um curso informando nome, descrição e imagem. 
 2. O sistema deve listar todos os cursos cadastrados.  
 3. Deve ser possível excluir um curso.  
 4. O sistema deve exibir mensagens de erro ao tentar criar cursos com campos obrigatórios vazios.  
@@ -42,12 +42,11 @@ Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclus
 ## 📁 Estrutura do Projeto
 
 DESAFIO-QA-BEEDOO-2025/
-│
 ├── README.md
-├── docs/ → Documentação (PDF ou anotações)
-├── user_story/ → User stories e critérios de aceite
-├── casos_de_teste/ → Casos de teste (Gherkin)
-└── evidencias/ → Prints das execuções
+├── user_stories/
+├── casos_de_teste/
+├── evidencias/
+└── relatorio_bugs/
 
 
 ---
