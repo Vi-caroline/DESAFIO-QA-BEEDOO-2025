@@ -5,9 +5,10 @@
 O módulo de curso da aplicação [Creative Sherbet](https://creative-sherbet-a51eac.netlify.app/) foi analisado para validar as principais funcionalidades relacionadas ao acesso, exibição e conclusão de cursos.
 
 ## 2. User Story
-**Como** aluno da plataforma,  
-**quero** visualizar e acessar os cursos disponíveis, assistir às aulas e acompanhar meu progresso,  
-**para que** eu possa concluir meu aprendizado com clareza e controle.
+**Como** um administrador da plataforma Beedoo,
+**Quero** criar, listar e excluir cursos no módulo de Cursos,
+**Para** gerenciar o conteúdo disponível aos alunos de forma prática e eficiente.
+
 
 ---
 
