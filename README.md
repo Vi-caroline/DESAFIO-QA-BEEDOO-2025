@@ -13,7 +13,7 @@ Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclus
 
 🎥 [Evidências em vídeo (Google Drive)](SEU_LINK_AQUI)
 
-## 🐞 Etapa 2 — Relatório de Bugs
+## 🐞  Relatório de Bugs
 📄 [Relatório de Bugs (arquivo .md ou .pdf)](SEU_LINK_AQUI)
 
 ## 🧩 User Story
