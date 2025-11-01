@@ -41,6 +41,15 @@ Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclus
 
 ---
 
+## 🧰 Ferramentas Utilizadas
+
+- **Google Sheets** → elaboração e rastreabilidade dos casos de teste  
+- **Google Drive** → armazenamento das evidências em vídeo  
+- **Markdown (.md)** → documentação do relatório de bugs e README  
+- **Técnica ISTQB** → estruturação dos relatórios de bugs
+
+---
+
 ## 🧪 Metodologia Utilizada
 
 Usei a Técnica de Relato de Bug baseada no padrão ISTQB (Título, Descrição, Passos para Reproduzir, Resultado Esperado, Resultado Obtido e Severidade).
