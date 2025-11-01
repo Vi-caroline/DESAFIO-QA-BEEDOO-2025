@@ -14,7 +14,7 @@ Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclus
 🎥 [Evidências em vídeo (Google Drive)](https://drive.google.com/drive/folders/1g1bpEGJXro0RvSNrXzkRE3sGL4N22_K6?usp=drive_link)
 
 ## 🐞  Relatório de Bugs
-📄 [Relatório de Bugs (arquivo .md ou .pdf)](https://drive.google.com/file/d/1TtGs3AzjiG9tsSwj9FY-UfhqPV2nEZmE/view?usp=drivesdk)
+📄 [Relatório de Bugs (arquivo .md ou .pdf)](https://drive.google.com/file/d/1rTUSW1ZlaQfY3wkT44ZX_mdy4OjHHTaI/view?usp=drivesdk)
 
 ## 🧩 User Story
 
