@@ -9,7 +9,7 @@ Este repositório foi desenvolvido no contexto do Desafio QA Beedoo 2025, com o 
 Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclusão.
 👉  Aplicação testada:(https://creative-sherbet-a51eac.netlify.app/)
 
-[Planilha de Casos de Teste (Google Sheets)](https://docs.google.com/spreadsheets/d/161AI6qWg5JSnznofUlt5nhCCjGs02YmGfKeoHx-QL8s/edit?usp=drive_link](https://drive.google.com/drive/folders/1HTIg3qRJMgpoon7v9bJnGPB9h7HzGT0x)
+[Planilha de Casos de Teste (Google Sheets)](https://docs.google.com/spreadsheets/d/161AI6qWg5JSnznofUlt5nhCCjGs02YmGfKeoHx-QL8s/edit?usp=drive_link](https://drive.google.com/drive/folders/1HTIg3qRJMgpoon7v9bJnGPB9h7HzGT0x)(https://docs.google.com/spreadsheets/d/161AI6qWg5JSnznofUlt5nhCCjGs02YmGfKeoHx-QL8s/edit?usp=drivesdk)
 
 🎥 [Evidências em vídeo (Google Drive)](https://drive.google.com/drive/folders/1g1bpEGJXro0RvSNrXzkRE3sGL4N22_K6?usp=drive_link](https://drive.google.com/drive/folders/1g1bpEGJXro0RvSNrXzkRE3sGL4N22_K6?usp=drive_link)
 
