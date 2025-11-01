@@ -46,17 +46,6 @@ Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclus
 A metodologia utilizada foi **Risk-Based Testing (RBT)**, priorizando os testes de maior impacto e risco funcional.  
 A escolha foi feita para otimizar a cobertura e garantir a validação das funcionalidades mais críticas da aplicação.
 
-
-## 📁 Estrutura do Projeto
-
-DESAFIO-QA-BEEDOO-2025/
-├── README.md
-├── user_stories/
-├── casos_de_teste/
-├── evidencias/
-└── relatorio_bugs/
-
-
 ---
 
 ## Autor
