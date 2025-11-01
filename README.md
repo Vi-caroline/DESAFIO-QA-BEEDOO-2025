@@ -1,6 +1,6 @@
 # 🧠 Desafio QA Beedoo 2025
 
-Repositório desenvolvido para o **Desafio QA Beedoo 2025**.
+Este repositório foi desenvolvido no contexto do Desafio QA Beedoo 2025, com o propósito de aplicar técnicas de garantia da qualidade de software para validar o funcionamento e a experiência do usuário no módulo de Cursos da aplicação Beedoo Challenge.
 
 ---
 
@@ -28,7 +28,7 @@ Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclus
 1. Deve ser possível criar um curso informando nome, descrição e imagem. 
 2. O sistema deve listar todos os cursos cadastrados.  
 3. Deve ser possível excluir um curso.  
-4. O sistema deve exibir mensagens de erro ao tentar criar cursos com campos obrigatórios vazios.  
+4. O sistema deve exibir mensagens de erro ao tentar criar cursos com campos vazios.  
 5. Ao excluir um curso, deve haver uma mensagem de confirmação ou feedback.
 
 ---
@@ -37,16 +37,15 @@ Analisar o módulo de cursos e validar os fluxos de criação, listagem e exclus
 - A User Story foi criada com base na análise funcional da tela disponível no desafio.  
 - Foram priorizados cenários reais de criação, listagem e exclusão.  
 - Adotou-se a linguagem **Gherkin** nos casos de teste para padronização e clareza.  
-- O foco está em testar fluxos de sucesso e falha, incluindo validações de campos obrigatórios.
+- O foco está em testar fluxos de sucesso e falha, incluindo validações de campos.
 
 ---
 
 ## 🧪 Metodologia Utilizada
 
-A metodologia utilizada foi **Risk-Based Testing (RBT)**, priorizando os testes de maior impacto e risco funcional.  
-A escolha foi feita para otimizar a cobertura e garantir a validação das funcionalidades mais críticas da aplicação.
+Usei a Técnica de Relato de Bug baseada no padrão ISTQB (Título, Descrição, Passos para Reproduzir, Resultado Esperado, Resultado Obtido e Severidade).
 
 ---
 
-## Autor
+## Responsavel
 Vitória Caroline Da siva
